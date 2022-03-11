@@ -1,0 +1,10 @@
+body {
+  width: 100%;
+  margin: 0;
+  font-family:"Poppins";
+  /* overflow-x: scroll; */
+}
+
+code {
+  font-family: "Poppins";
+}

@@ -1,0 +1,10 @@
+.tabscomp {
+    display: flex;
+    text-align: center;
+    padding: 0px;
+    color: #525e59
+}
+
+.featurediv {
+    background-color: #ffffff !important;
+}

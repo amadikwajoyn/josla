@@ -1,0 +1,11 @@
+.footerrow-box {
+    display: flex;
+    justify-content: space-between;
+    background-color: #440101;
+    padding: 40px;
+    color: #525e59
+}
+
+.smartmeter-btns {
+    display: flex;
+}

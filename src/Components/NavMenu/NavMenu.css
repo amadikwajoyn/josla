@@ -1,0 +1,27 @@
+body {
+    font-family: "Poppins";
+}
+
+.navbar {
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.btn-login {
+    color:#000000;
+}
+
+.menutext {
+    font-family: "Poppins";
+    font-size: 20px;
+    color: #000;
+    margin: auto 35px;
+    cursor: pointer;
+    font-weight: 200;
+    justify-content: right;
+    position: relative;
+}
+
+.menutext:hover {
+    text-decoration: underline red;
+}

@@ -1,0 +1,40 @@
+.smartmeter-title {
+    background-color: #ffffff !important;
+    display: flex;
+    background: #262626;
+    padding: 40px;
+    justify-content:center
+}
+
+
+.smartmeter-row-box {
+    display: flex;
+    justify-content: space-between;
+    background: #262626;
+    padding: 40px;
+    color: #ffffff
+}
+
+.smartmeter-btns {
+    display: flex;
+}
+
+.smart-hr {
+    width: 15%;
+    background: #ffffff;
+    border:solid 3px #ffffff;
+    border-radius: 20px;
+}
+
+.smart-icon {
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 1rem;
+    color: #ffffff;
+    font-size: 14px;
+}
+
+.smartmeter-btns {
+    margin-top: 20px;
+    justify-content:space-around;
+}
