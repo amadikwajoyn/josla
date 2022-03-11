@@ -6,7 +6,7 @@ import Header3 from "../../Components/Header/Header3/Header3";
 import Header4 from "../../Components/Header/Header4/Header4";
 import Smartmeter from "../../Components/Smartmeter/Smartmeter";
 import TabsComp from "../../Components/TabsComp/TabsComp";
-import AppFeatures from "../../Components/AppFeatures/AppFeatures";
+// import AppFeatures from "../../Components/AppFeatures/AppFeatures";
 import AboutusLandpage from "../../Components/AboutusLandpage/AboutusLandpage";
 import Footer from "../../Components/Footer/Footer";
 import HeaderButtons from "../../Components/buttons/HeaderButtons";
