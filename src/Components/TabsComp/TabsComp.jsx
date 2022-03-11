@@ -4,10 +4,8 @@ import {
   TabPane,
   Nav,
   NavItem,
-  NavLink,
   Row,
   Col,
-  Container,
 } from "reactstrap";
 import classnames from "classnames";
 import "./TabsComp.css";

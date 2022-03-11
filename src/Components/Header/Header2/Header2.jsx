@@ -1,6 +1,6 @@
 import React from "react";
 import smartgrid from '../../../assets/image/city_6079248a.png';
-import { Container, Row, Col, Button } from "reactstrap";
+import { Container, Row, Col } from "reactstrap";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./Header2.css";
 function Header2() {

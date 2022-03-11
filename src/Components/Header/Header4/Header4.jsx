@@ -1,6 +1,6 @@
 import React from "react";
 import headerImage from '../../../assets/image/headerImage_1aa825a1.png'
-import { Container, Row, Col, Button } from "reactstrap";
+import { Container, Row, Col } from "reactstrap";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./Header4.css";
 function Header4() {

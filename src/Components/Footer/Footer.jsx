@@ -1,5 +1,5 @@
 import React from 'react'
-import {Container, Row, Col} from 'reactstrap'
+import { Row, Col} from 'reactstrap'
 // import smartmeter from '../../assets/image/smartMeterImage_385bc167.png';
 import './Footer.css'
 

@@ -1,6 +1,6 @@
 import React from "react";
 import electricCharger from '../../../assets/image/electricCharge_0df93834.png';
-import { Container, Row, Col, Button } from "reactstrap";
+import { Container, Row, Col} from "reactstrap";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./Header3.css";
 function Header3() {
