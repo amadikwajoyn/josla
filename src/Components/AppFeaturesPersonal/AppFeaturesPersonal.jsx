@@ -1,10 +1,10 @@
 import React, { useEffect } from "react";
 import { Button, Row, Col } from "reactstrap";
-import "./AppFeatures.css";
+import "./AppFeaturesPersonal.css";
 import AOS from "aos";
 import "aos/dist/aos.css";
 
-export default function AppFeatures() {
+export default function AppFeaturesPersonal() {
   useEffect(() => {
     AOS.init({
       delay: 400,
@@ -14,12 +14,12 @@ export default function AppFeatures() {
 
   return (
     <div>
-      <Row className="appfeatures-row">
+      <Row className="appfeatures-row1">
         <Col
           sm={12}
           md={6}
           lg={6}
-          className="features-div1"
+          className="features-div11"
           data-aos="fade-right"
         >
           <h4> Demand-side management </h4>
@@ -29,10 +29,10 @@ export default function AppFeatures() {
           </p>
           <Row>
             <Col sm={6} md={6} lg={6}>
-              <Button className="appfeaturesbtn">Request Demo</Button>
+              <Button className="appfeaturesbtn1">Request Demo</Button>
             </Col>
             <Col sm={6} md={6} lg={6}>
-              <Button className="appfeaturesbtnmore">Learn More &gt;</Button>
+              <Button className="appfeaturesbtnmore1">Learn More &gt;</Button>
             </Col>
           </Row>
         </Col>
@@ -42,7 +42,7 @@ export default function AppFeatures() {
           sm={12}
           md={6}
           lg={6}
-          className="features-div2"
+          className="features-div21"
         >
           <h4> Electric Bill Vending </h4>
           <p>
@@ -51,7 +51,7 @@ export default function AppFeatures() {
           </p>
           <Row>
             <Col sm={6} md={6} lg={6}>
-              <Button className="appfeaturesbtn">Request Demo</Button>
+              <Button className="appfeaturesbtn1">Request Demo</Button>
             </Col>
             <Col sm={6} md={6} lg={6}>
               <Button>Learn More &gt; </Button>
@@ -63,7 +63,7 @@ export default function AppFeatures() {
           sm={12}
           md={6}
           lg={6}
-          className="features-div3"
+          className="features-div31"
           data-aos="fade-right"
         >
           <h4> Asset management </h4>
@@ -73,7 +73,7 @@ export default function AppFeatures() {
           </p>
           <Row>
             <Col sm={6} md={6} lg={6}>
-              <Button className="appfeaturesbtn">Request Demo</Button>
+              <Button className="appfeaturesbtn1">Request Demo</Button>
             </Col>
             <Col sm={6} md={6} lg={6}>
               <Button>Learn More &gt; </Button>
@@ -85,7 +85,7 @@ export default function AppFeatures() {
           sm={12}
           md={6}
           lg={6}
-          className="features-div4"
+          className="features-div41"
           data-aos="fade-left"
         >
           <h4> Network Automation </h4>
@@ -97,7 +97,7 @@ export default function AppFeatures() {
           </p>
           <Row>
             <Col sm={6} md={6} lg={6}>
-              <Button className="appfeaturesbtn">Request Demo</Button>
+              <Button className="appfeaturesbtn1">Request Demo</Button>
             </Col>
             <Col sm={6} md={6} lg={6}>
               <Button>Learn More &gt; </Button>

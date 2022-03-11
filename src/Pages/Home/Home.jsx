@@ -29,7 +29,7 @@ function Home() {
       <HeaderButtons />
       <Smartmeter />
       <TabsComp />
-      <AppFeatures />
+      {/* <AppFeatures /> */}
       <AboutusLandpage />
       <Footer />
     </>

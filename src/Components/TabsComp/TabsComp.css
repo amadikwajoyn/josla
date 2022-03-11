@@ -2,9 +2,53 @@
     display: flex;
     text-align: center;
     padding: 0px;
-    color: #525e59
+    color: #525e59;
+    justify-content: center;
 }
+
+.tabsnav {
+    justify-content: center;
+    border-bottom: none !important; 
+}
+
+.individuallink.active {
+    background: rgb(255, 255, 255);
+    border-radius: 37px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    text-align: center;
+    justify-content: center;
+}
+
+
 
 .featurediv {
     background-color: #ffffff !important;
+    /* margin-bottom: 10px; */
+}
+
+.tabscomp {
+    /* margin: 10px 40px; */
+    width: 55%;
+    background-color: #f4ebeb;
+    display: flex;
+    border-radius: 30px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 55px;
+}
+
+.individual-text {
+    text-align: center;
+    margin: 5%;
+    line-height: 1.4;
+    letter-spacing: .02em;
+}
+
+.facility-text {
+    text-align: center;
+    margin: 5%;
+    line-height: 1.4;
+    letter-spacing: .02em;
 }

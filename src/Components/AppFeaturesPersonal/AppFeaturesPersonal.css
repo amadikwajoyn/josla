@@ -1,4 +1,4 @@
-.appfeatures-row {
+.appfeatures-row1 {
     background-image: url('../../assets/image/inner-ellipse.4480098d.svg');
     background-repeat: no-repeat;
     justify-content: center;
@@ -7,12 +7,12 @@
     margin-top:-1px;
 }
 
-.features-div1 {
+.features-div11 {
     width: 500px;
     height: 399px;
     border-radius: 50px;
-    /* background: linear-gradient(#223a22 96%,#f5f5f5); */
-    background: linear-gradient(#111141 95%,#f5f5f5);
+    background: linear-gradient(#223a22 96%,#f5f5f5);
+    /* background: linear-gradient(#111141 95%,#f5f5f5); */
     text-align: center;
     color: #fff;
     grid-gap: 20px;
@@ -26,12 +26,12 @@
     margin-top: -20px;
 }
 
-.features-div2 {
+.features-div21 {
     width: 500px;
     height: 390px;
     border-radius: 50px;
-    /* background: linear-gradient(#223a22 96%,#f5f5f5); */
-    background: linear-gradient(#27277c 95%,#f5f5f5);
+    background: linear-gradient(#223a22 96%,#f5f5f5);
+    /* background: linear-gradient(#27277c 95%,#f5f5f5); */
     text-align: center;
     color: #fff;
     grid-gap: 20px;
@@ -44,12 +44,12 @@
     margin: 50px;
 }
 
-.features-div3 {
+.features-div31 {
     width: 500px;
     height: 399px;
     border-radius: 50px;
-    /* background: linear-gradient(#0da00d 97%,#f5f5f5); */
-    background: linear-gradient(#2350c4 95%,#f5f5f5);
+    background: linear-gradient(#0da00d 97%,#f5f5f5);
+    /* background: linear-gradient(#2350c4 95%,#f5f5f5); */
     text-align: center;
     color: #fff;
     grid-gap: 20px;
@@ -63,12 +63,12 @@
     margin-top: -20px;
 }
 
-.features-div4 {
+.features-div41 {
     width: 500px;
     height: 399px;
     border-radius: 50px;
-    background: linear-gradient(#5c87f3 95%,#f5f5f5);
-    /* background: linear-gradient(#0da00d 97%,#f5f5f5); */
+    /* background: linear-gradient(#5c87f3 95%,#f5f5f5); */
+    background: linear-gradient(#0da00d 97%,#f5f5f5);
     text-align: center;
     color: #fff;
     grid-gap: 20px;
@@ -81,7 +81,7 @@
     margin: 50px;
 }
 
-.appfeaturesbtn {
+.appfeaturesbtn1 {
     cursor: pointer;
     border: 1px solid #fff;
     padding: 12px 19px;
@@ -90,31 +90,31 @@
     background-color: none;
 }
 
-.appfeaturesbtnmore {
+.appfeaturesbtnmore1 {
     border: none;
     background-color: none;
     color: #ffffff;
 }
-.appfeaturesbtn, .btn-secondary {
+.appfeaturesbtn1 {
     background-color: none;
 }
 
-.features-div1, p {
+.features-div11, p {
     padding-left: 12px;
     padding-right: 12px;
 }
 
-.features-div2, p {
+.features-div21, p {
     padding-left: 12px;
     padding-right: 12px;
 }
 
-.features-div3, p {
+.features-div31, p {
     padding-left: 12px;
     padding-right: 12px;
 }
 
-.features-div4, p {
+.features-div41, p {
     padding-left: 12px;
     padding-right: 12px;
 }
